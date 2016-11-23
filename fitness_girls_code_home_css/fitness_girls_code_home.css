@@ -1,1 +1,17 @@
 /**css
+h1{
+  font-size:52px; color:#e67e22; text-align:center;
+}
+
+p{
+  color:black
+}
+
+body{
+  color: #555;   font-family: Helvetica, Arial, sans-serif;   line-height: 1.5;
+  width:700px;
+  margin-left:auto; /*200px change for all the text*/
+  margin-right:auto; /*200px*/
+}
+
+
