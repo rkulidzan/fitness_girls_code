@@ -3,7 +3,7 @@ h1{
 }
 
 header{
-  background-image: url('https://images.unsplash.com/uploads/141319662617846f3b4c9/1677b57d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=c7bf32a8f34fd780ddb99239ac80e702');
+  background-image: url('https://images.unsplash.com/photo-1463740839922-2d3b7e426a56?dpr=1&auto=format&fit=crop&w=767&h=468&q=80&cs=tinysrgb&crop=');
   background-position: center;
   background-size: cover;
   color: white;
@@ -11,7 +11,6 @@ header{
   padding-top: 100px;
   padding-bottom: 100px;
 }
-
 
 p{
   color:black
@@ -24,12 +23,4 @@ body{
   margin-right:auto; /*200px*/
 }
 
-header{
-  background-image: url('https://images.unsplash.com/photo-1463740839922-2d3b7e426a56?dpr=1&auto=format&fit=crop&w=767&h=468&q=80&cs=tinysrgb&crop=');
-  background-position: center;
-  background-size: cover;
-  color: white;
-  text-align: center;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
+
