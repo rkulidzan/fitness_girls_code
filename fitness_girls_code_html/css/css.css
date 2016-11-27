@@ -10,10 +10,10 @@ body{
 	background-image:url(../images/fitness.jpg);
 	background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: center; 
 }
 .menu{
-
+	
 }
 h1{
 	font-family: serif;
@@ -55,7 +55,7 @@ list-style: none;
 	width:100%
 }
 .foodcontainer{
-	background-color: #ecf0f1;
+	background-color: whitesmoke;
     border: 1px #eeeeee solid;
     margin-bottom: 12px;
 }
@@ -66,7 +66,7 @@ list-style: none;
 	    padding: 12px;
 }
 .border{
-	    border-bottom: 4px solid 1abc9c ;
+	    border-bottom: 4px solid yellow;
 }
 .font{
 	font-family: "source_sans_prolight",Arial,"Helvetica Neue",Helvetica,sans-serif;
